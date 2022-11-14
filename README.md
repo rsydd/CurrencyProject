@@ -1,0 +1,3 @@
+# CurrencyProject
+
+Project iseng hehehe.
